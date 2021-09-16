@@ -1,0 +1,84 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.css");
+HTML CSSResult Skip Results Iframe
+EDIT ON
+.modal {
+  width: 300px;
+}
+.modal-content {
+  width: 300px;
+}
+.list-group-item:hover {
+  background-color: rgba(59, 57, 57, 0.164) !important;
+}
+
+*{
+    margin:0;
+}
+body{
+    background-color: white;
+}
+header{
+    background-color: blueviolet;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+main{
+    padding: 30px 50px;
+}
+.card{
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.lineInput{
+    display: grid;
+    margin-bottom: 10px;
+}
+input{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius:  3px;
+    outline: 0;
+}
+button{
+    border: 0px;
+    padding: 10px;
+    outline: 0;
+    background-color: blueviolet;
+    color:  #fff;
+    border: 3px;
+    font-weight: bold;
+    transition: all ease 0.3s;
+}
+
+butto:hover{
+    background-color: rgb(113, 22, 199);
+}
+.content{
+    margin-top:15px;
+}
+table td img{
+    width: 22px;
+}
+  a:link {
+    color: #ccc;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+
+  a:active {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
